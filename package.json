@@ -1,18 +1,18 @@
 {
   "name": "sss76-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
-"description": "มีเลขอั้นไหม✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
-"keywords": [
-"มีเลขอั้นไหม",
-"เล่นหวยเว็บ",
-"lottovip lottovip",
-"หวยเว็บออนไลน์",
-"หวยสดคอม"
-],
+  "version": "0.2.0",
+  "description": "มีเลขอั้นไหม✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+  "keywords": [
+    "มีเลขอั้นไหม",
+    "เล่นหวยเว็บ",
+    "lottovip lottovip",
+    "หวยเว็บออนไลน์",
+    "หวยสดคอม"
+  ],
   "repository": "https://github.com/setteebet/sss76-syntax.git",
   "license": "MIT",
   "engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
